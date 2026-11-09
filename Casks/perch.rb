@@ -1,6 +1,6 @@
 cask "perch" do
-  version "2.0"
-  sha256 "00187fa181e76f949b08cf05f4b2a2dc9252e7688f57bc4ef6fd4d0a692ccbd5"
+  version "2.1"
+  sha256 "f908eb88e41178bfe6ef5e7bc5e6f9d4f083009bd8c9a65e19a857712531216e"
 
   url "https://github.com/abhaymettu/perch/releases/download/v#{version}/Perch-#{version}.zip"
   name "Perch"
